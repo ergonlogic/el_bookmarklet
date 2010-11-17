@@ -1,0 +1,3 @@
+<?php
+
+include_once('el_bookmarklet.features.inc');
